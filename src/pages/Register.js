@@ -58,7 +58,7 @@ class Register extends Component {
                       <input
                         type="text"
                         className="style2-input ps-5 form-control text-grey-900 font-xsss fw-600"
-                        placeholder="Your Email Address"
+                        placeholder="Your Email Address Here"
                       />
                     </div>
                     <div className="form-group icon-input mb-3">
