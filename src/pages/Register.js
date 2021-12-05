@@ -73,7 +73,7 @@ class Register extends Component {
                       <input
                         type="Password"
                         className="style2-input ps-5 form-control text-grey-900 font-xss ls-3"
-                        placeholder="Confirm Password"
+                        placeholder="Confirm Password please"
                       />
                       <i className="font-sm ti-lock text-grey-500 pe-0"></i>
                     </div>
